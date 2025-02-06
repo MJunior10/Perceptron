@@ -29,13 +29,15 @@ Este é um programa em Python que implementa um Perceptron simples para aprender
 Ciclo 1
 Ciclo 2
 Ciclo 3
+
 Treinamento Concluído
 
 Testando Perceptron:
+
 Entrada: [0, 0, 0], Saída: 0
 Entrada: [0, 0, 1], Saída: 0
-Entrada: [0, 1, 0], Saída: 0
-Entrada: [0, 1, 1], Saída: 0
+Entrada: [0, 1, 0], Saída: 1
+Entrada: [0, 1, 1], Saída: 1
 Entrada: [1, 0, 0], Saída: 0
 Entrada: [1, 0, 1], Saída: 0
 Entrada: [1, 1, 0], Saída: 1
