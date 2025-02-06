@@ -45,6 +45,4 @@ Entrada: [1, 1, 1], Saída: 1
 ## 📌 Observação
 O código pode ser ajustado para outras funções lógicas alterando os dados de entrada e as saídas esperadas.
 
-## 📜 Licença
-Este projeto é de domínio público e pode ser utilizado livremente.
 
