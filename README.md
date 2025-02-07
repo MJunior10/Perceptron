@@ -27,8 +27,11 @@ Este é um programa em Python que implementa um Perceptron simples para aprender
 ## 📊 Exemplo de Saída
 ```bash
 Ciclo 1
+Quantidade de erro: 3
 Ciclo 2
+Quantidade de erro: 3
 Ciclo 3
+Quantidade de erro: 0
 
 Treinamento Concluído
 
